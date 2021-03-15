@@ -1,3 +1,3 @@
 # Terran OS
 
-https://jpmassonnier.github.io/terran/
+https://amasonico.github.io/terran/
